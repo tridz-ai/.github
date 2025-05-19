@@ -1,1 +1,1 @@
-# .github
+At Tridz We build products enhanced with AI that streamline business operations. This is done by embedding AI into existing systems. Our solutions automate customer interactions via calls and WhatsApp, accelerate workflows, eliminate bottlenecks, and boost efficiency.
